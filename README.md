@@ -1,2 +1,0 @@
-android-candidate-test
-======================
